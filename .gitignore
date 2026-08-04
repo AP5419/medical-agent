@@ -1,0 +1,109 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============ 虚拟环境 ============
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# ============ 环境变量（敏感信息）============
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+
+# ============ 日志文件 ============
+logs/
+*.log
+logs/
+scripts/logs/
+src/medical_agent/logs/
+
+# ============ 数据文件（可选保留示例）============
+# 保留示例数据，如需隐藏可取消注释
+# data/
+# data/documents/pdf/
+# data/documents/guidelines/
+# data/documents/education/
+# data/documents/drug_instructions/
+# data/raw/
+
+# MinerU 输出
+data/documents/pdf/mineru_output/
+output/
+cache/
+
+# ============ 测试 & 覆盖率 ============
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============ Jupyter Notebook ============
+.ipynb_checkpoints
+
+# ============ 数据库 ============
+*.db
+*.sqlite
+*.sqlite3
+
+# ============ Docker ============
+docker-compose.override.yml
+.dockerignore
+
+# ============ 备份文件 ============
+*.bak
+*.backup
+*.old
+settings.yaml.bak
+
+# ============ 讲座笔记（个人笔记，可选上传）============
+# LECTURE_NOTES.md
+# LECTURE_NOTES.assets/
+
+# ============ 面试指南（个人准备，建议保留展示技术深度）============
+# INTERVIEW_GUIDE.md - 建议保留，展示你对项目的深度思考
+
+# ============ Alembic 迁移缓存 ============
+alembic/versions/__pycache__/

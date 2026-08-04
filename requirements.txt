@@ -1,0 +1,3 @@
+# Dependencies for medical-agent
+# Install: pip install -r requirements.txt
+# Or for development: pip install -e .

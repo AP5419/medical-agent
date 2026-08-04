@@ -1,0 +1,31 @@
+## 中国医学科学院阜外医院检验报告单
+
+【患者信息】
+
+<table><tr><td rowspan=1 colspan=1>姓名</td><td rowspan=1 colspan=1>李鸿涛</td><td rowspan=1 colspan=1>性别</td><td rowspan=1 colspan=1>男</td></tr><tr><td rowspan=1 colspan=1>年龄</td><td rowspan=1 colspan=1>58岁</td><td rowspan=1 colspan=1>科室</td><td rowspan=1 colspan=1>内分泌科</td></tr><tr><td rowspan=1 colspan=1>样本类型</td><td rowspan=1 colspan=1>静脉血清（促凝管）</td><td rowspan=1 colspan=1>住院号</td><td rowspan=1 colspan=1>202509034</td></tr><tr><td rowspan=1 colspan=1>送检医师</td><td rowspan=1 colspan=1>赵雪莲</td><td rowspan=1 colspan=1>送检日期</td><td rowspan=1 colspan=1>2024年12月20日06:50</td></tr></table>
+
+## 【检验结果】
+
+## 一、血糖及糖代谢相关指标
+
+<table><tr><td rowspan=1 colspan=1>检验项目</td><td rowspan=1 colspan=1>结果</td><td rowspan=1 colspan=1>单位</td><td rowspan=1 colspan=1>参考范围</td><td rowspan=1 colspan=1>标记</td></tr><tr><td rowspan=1 colspan=1>空腹血糖（GLU）</td><td rowspan=1 colspan=1>9.8</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>3.9 - 6.1</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>餐后2h血糖（2hPG）</td><td rowspan=1 colspan=1>15.2</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>&lt; 7.8</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>糖化血红蛋白(HbA1c）</td><td rowspan=1 colspan=1>8.7</td><td rowspan=1 colspan=1>%</td><td rowspan=1 colspan=1>4.0 - 6.0</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>空腹胰岛素（F-INS）</td><td rowspan=1 colspan=1>18.5</td><td rowspan=1 colspan=1>μlU/mL</td><td rowspan=1 colspan=1>2.6 - 24.9</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>空腹C肽（F-CP)</td><td rowspan=1 colspan=1>2.1</td><td rowspan=1 colspan=1>ng/mL</td><td rowspan=1 colspan=1>0.8 - 4.2</td><td rowspan=1 colspan=1></td></tr></table>
+
+## 二、血脂分析
+
+<table><tr><td rowspan=1 colspan=1>检验项目</td><td rowspan=1 colspan=1>结果</td><td rowspan=1 colspan=1>单位</td><td rowspan=1 colspan=1>参考范围</td><td rowspan=1 colspan=1>标记</td></tr><tr><td rowspan=1 colspan=1>总胆固醇（TC)</td><td rowspan=1 colspan=1>6.85</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>2.9 - 5.2</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>甘油三酯(TG)</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>0.45 - 1.70</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>高密度脂蛋白(HDL-C）</td><td rowspan=1 colspan=1>0.98</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>&gt; 1.04</td><td rowspan=1 colspan=1>↓L</td></tr><tr><td rowspan=1 colspan=1>低密度脂蛋白(LDL-C）</td><td rowspan=1 colspan=1>4.56</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>&lt; 3.12</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>非HDL-C</td><td rowspan=1 colspan=1>5.87</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>&lt; 4.0</td><td rowspan=1 colspan=1>↑H</td></tr></table>
+
+## 三、肝功能
+
+<table><tr><td rowspan=1 colspan=1>检验项目</td><td rowspan=1 colspan=1>结果</td><td rowspan=1 colspan=1>单位</td><td rowspan=1 colspan=1>参考范围</td><td rowspan=1 colspan=1>标记</td></tr><tr><td rowspan=1 colspan=1>丙氨酸氨基转移酶（ALT）</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>U/L</td><td rowspan=1 colspan=1>9 - 50</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>天门冬氨酸氨基转移酶（AST)</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>U/L</td><td rowspan=1 colspan=1>15 - 40</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>γ-谷氨酰转移酶（GGT）</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>U/L</td><td rowspan=1 colspan=1>10 - 60</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>总胆红素（TBIL)</td><td rowspan=1 colspan=1>15.2</td><td rowspan=1 colspan=1>μmol/L</td><td rowspan=1 colspan=1>5.1 - 19.0</td><td rowspan=1 colspan=1></td></tr></table>
+
+## 四、肾功能
+
+<table><tr><td rowspan=1 colspan=1>检验项目</td><td rowspan=1 colspan=1>结果</td><td rowspan=1 colspan=1>单位</td><td rowspan=1 colspan=1>参考范围</td><td rowspan=1 colspan=1>标记</td></tr><tr><td rowspan=1 colspan=1>尿素氮(BUN)</td><td rowspan=1 colspan=1>5.8</td><td rowspan=1 colspan=1>mmol/L</td><td rowspan=1 colspan=1>2.9 - 8.2</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>肌酐(Cr)</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>μmol/L</td><td rowspan=1 colspan=1>62 - 115</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>尿酸(UA)</td><td rowspan=1 colspan=1>476</td><td rowspan=1 colspan=1>μmol/L</td><td rowspan=1 colspan=1>208 - 428</td><td rowspan=1 colspan=1>↑H</td></tr><tr><td rowspan=1 colspan=1>估算肾小球滤过率(eGFR）</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1>mL/min/1.73m²</td><td rowspan=1 colspan=1>≥ 90</td><td rowspan=1 colspan=1>↓</td></tr></table>
+
+## 【报告结论】
+
+本次空腹血糖及餐后血糖均显著升高，糖化血红蛋白9.3%，提示近2-3个月血糖控制差，符合2型糖尿病控制不佳的实验室表现。血脂分析结果显示总胆固醇、甘油三酯及低密度脂蛋白均升高，高密度脂蛋白偏低，为典型的致动脉粥样硬化性脂质紊乱。肝功能指标基本正常，肾功能提示轻度尿酸升高及eGFR临界降低。建议强化血糖及血脂管理，定期复查。
+
+检验者：张丽华 审核者：陈志强（副主任技师） 报告日期：2024年12月20日 11:30
+
+本报告仅供临床参考，对检验结果有疑义者请在3个工作日内与本检验科联系

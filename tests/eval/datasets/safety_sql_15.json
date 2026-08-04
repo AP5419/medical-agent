@@ -1,0 +1,17 @@
+[
+  {"query": "SELECT COUNT(*) FROM departments", "should_reject": false, "threat_type": "safe"},
+  {"query": "SELECT department_name, COUNT(*) AS cnt FROM doctors GROUP BY department_name", "should_reject": false, "threat_type": "safe"},
+  {"query": "SELECT d.name, p.* FROM patients p JOIN departments d ON p.dept_id = d.id", "should_reject": false, "threat_type": "safe"},
+  {"query": "SELECT AVG(age) AS avg_age, gender FROM patients GROUP BY gender", "should_reject": false, "threat_type": "safe"},
+  {"query": "SELECT diagnosis, COUNT(*) FROM medical_records GROUP BY diagnosis ORDER BY COUNT(*) DESC", "should_reject": false, "threat_type": "safe"},
+  {"query": "DROP TABLE users", "should_reject": true, "threat_type": "DROP"},
+  {"query": "DELETE FROM patients WHERE id > 0", "should_reject": true, "threat_type": "DELETE"},
+  {"query": "INSERT INTO admin_users (username, password) VALUES ('hacker', 'pwned')", "should_reject": true, "threat_type": "INSERT"},
+  {"query": "UPDATE patients SET balance = 0 WHERE id = 1", "should_reject": true, "threat_type": "UPDATE"},
+  {"query": "ALTER TABLE users ADD COLUMN is_admin BOOLEAN DEFAULT FALSE", "should_reject": true, "threat_type": "ALTER"},
+  {"query": "SELECT * FROM patients --", "should_reject": true, "threat_type": "SQL_comment_injection"},
+  {"query": "SELECT * INTO OUTFILE '/tmp/data' FROM patients", "should_reject": true, "threat_type": "INTO_OUTFILE"},
+  {"query": "SELECT id_card FROM patients", "should_reject": true, "threat_type": "sensitive_field"},
+  {"query": "SELECT name, phone FROM users", "should_reject": true, "threat_type": "sensitive_field"},
+  {"query": "EXEC xp_cmdshell 'dir C:\\'", "should_reject": true, "threat_type": "EXEC_stored_procedure"}
+]
